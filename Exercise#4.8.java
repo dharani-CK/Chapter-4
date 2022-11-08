@@ -18,7 +18,7 @@ public class IntegerToCharacter
 		System.out.print("Enter an ASCII code: ");
 		int numberASCII = input.nextInt();
 		
-		// convert the interger to character
+		// convert the integer to character
 		char charASCII = (char)numberASCII;
 		
 		// display the result
